@@ -1,0 +1,27 @@
+# Binaries
+pix2ansi
+pix2ansi.exe
+dist/
+
+# Go build cache
+*.o
+*.a
+*.so
+
+# Test output
+*.test
+*.out
+
+# Dependency vendor directory
+vendor/
+
+# Go workspace
+go.work
+go.work.sum
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
